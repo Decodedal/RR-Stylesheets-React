@@ -1,0 +1,11 @@
+.Gallery{
+    display: flex;
+    flex-shrink: -1;
+    flex-grow: 1;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+h2{
+    color: red;
+    text-decoration: underline;
+}
